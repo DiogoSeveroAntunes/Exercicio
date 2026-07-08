@@ -23,7 +23,6 @@ public class Main {
     String resposta = s.nextLine();
     lista.addAll(Arrays.asList(resposta.split(",")));
     Collections.sort(lista);
-
     System.out.println(lista);
     }
 }
