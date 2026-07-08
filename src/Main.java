@@ -25,8 +25,5 @@ public class Main {
     Collections.sort(lista);
 
     System.out.println(lista);
-
-
-
     }
 }
